@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Now playing/Recently played on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=atvwfdytf0ocxy2prgtpokxkh&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=atvwfdytf0ocxy2prgtpokxkh&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=f5n7qoy9fgpnluutioy0cpc5z&cover_image=true&theme=natemoo-re&bar_color=000000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
